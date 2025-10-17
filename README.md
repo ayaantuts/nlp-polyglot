@@ -7,7 +7,7 @@
 
 A web-based toolkit for performing powerful NLP analysis on text in multiple languages. This project provides a simple interface to complex models for tasks like Sentiment Analysis, Named Entity Recognition, and more.
 
-### [Live Demo Link (Coming Soon!)](#)
+### [Live Demo Link (Coming Soon!)](https://nlp-polyglot.vercel.app/)
 
 ---
 
