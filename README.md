@@ -17,13 +17,13 @@ A web-based toolkit for performing powerful NLP analysis on text in multiple lan
 - **Sentiment Analysis:** Determine if a block of text is positive, negative, or neutral.
 - **Named Entity Recognition (NER):** Identify and extract entities like people, places, and organizations.
 - **Text Summarization:** Condense long articles into a few key sentences.
-- **Clean, Modern UI:** A simple and intuitive interface built with Next.js.
+- **Clean, Modern UI:** A simple and intuitive interface built with React.js.
 
 ## Tech Stack
 
 | Area      | Technology                                                                                                                              |
 | :-------- | :-------------------------------------------------------------------------------------------------------------------------------------- |
-| **Frontend** | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) |
 | **Backend** | ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)     |
 | **Database** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)                                |
 | **NLP Models**| ![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Transformers-FFD21E.svg)                                     |
