@@ -10,7 +10,7 @@ A collection of beginner-friendly Python projects to help you learn and practice
 ## To contributors
 - Make sure to add your project in the `projects/` directory with a proper README file explaining the project, its features, and how to run it.
 - Make a new directory for your project in the `projects/` folder.
-	- Naming convention: `your-username-project-name`
+	- Naming convention: `your-username/project-name`
 
 ## Table of Contents
 - [Getting Started](#getting-started)
