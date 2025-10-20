@@ -7,6 +7,11 @@
 
 A collection of beginner-friendly Python projects to help you learn and practice your coding skills. Whether you're new to programming or looking to enhance your Python knowledge, these projects are designed to be fun and educational.
 
+## To contributors
+- Make sure to add your project in the `projects/` directory with a proper README file explaining the project, its features, and how to run it.
+- Make a new directory for your project in the `projects/` folder.
+	- Naming convention: `your-username-project-name`
+
 ## Table of Contents
 - [Getting Started](#getting-started)
 - [Project Ideas](#project-ideas)
