@@ -10,15 +10,15 @@ This project and everyone participating in it is governed by our [Code of Conduc
 There are many ways to contribute, from writing code and documentation to improving the user interface.
 
 ### Reporting Bugs
-If you find a bug, please check our [issues page](https://github.com/YOUR_USERNAME/YOUR_REPONAME/issues) to see if it has already been reported. If not, please create a new issue. Be sure to include a clear title, a description of the bug, and steps to reproduce it.
+If you find a bug, please check our [issues page](https://github.com/ayaantuts/python-projects/issues) to see if it has already been reported. If not, please create a new issue. Be sure to include a clear title, a description of the bug, and steps to reproduce it.
 
 ### Suggesting Enhancements
 Have an idea for a new feature or an improvement to an existing one? We'd love to hear it! Please open an issue to start a discussion.
 
 ### Your First Contribution
 Ready to contribute code? We have a list of issues specifically for new contributors. Look for issues with the `good first issue` or `hacktoberfest` labels.
-- [Good First Issues](https://github.com/ayaantuts/nlp-polyglot/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
-- [Hacktoberfest Issues](https://github.com/ayaantuts/nlp-polyglot/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest)
+- [Good First Issues](https://github.com/ayaantuts/python-projects/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
+- [Hacktoberfest Issues](https://github.com/ayaantuts/python-projects/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest)
 
 ## Contribution Workflow
 Here is the process for submitting your changes:
@@ -27,8 +27,8 @@ Here is the process for submitting your changes:
 3.  **Fork the Repository:** Click the 'Fork' button at the top right of the repository page. This creates a copy of the project in your own GitHub account.
 4.  **Clone Your Fork:**
     ```bash
-    git clone [https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPONAME.git](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPONAME.git)
-    cd YOUR_REPONAME
+    git clone https://github.com/ayaantuts/python-projects.git
+    cd python-projects
     ```
 5.  **Create a New Branch:** Create a branch for your changes. Use a descriptive name.
     ```bash
