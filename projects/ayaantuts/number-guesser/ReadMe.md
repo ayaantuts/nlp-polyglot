@@ -10,8 +10,8 @@ The games are designed for simplicity and demonstrate fundamental programming co
 
 | File | Description | Algorithm |
 | :--- | :--- | :--- |
-| `Computer Guesses.py` | The computer attempts to guess the number the user is thinking of. | **Binary Search** |
-| `Human Guesses.py` | The user attempts to guess a random number selected by the computer. | **Random Selection** |
+| `Computer Guess.py` | The computer attempts to guess the number the user is thinking of. | **Binary Search** |
+| `Human Guess.py` | The user attempts to guess a random number selected by the computer. | **Random Selection** |
 
 -----
 
@@ -29,7 +29,7 @@ You need to have **Python 3** installed on your system.
 2.  Navigate to the directory where the file is saved.
 3.  Run the script:
     ```bash
-    python "Computer Guesses.py"
+    python "Computer Guess.py"
     ```
 4.  Follow the on-screen prompts to set the bounds (default is $1$ to $100$) and provide feedback to the computer's guesses (`L` for too low, `H` for too high, `C` for correct).
 
@@ -39,7 +39,7 @@ You need to have **Python 3** installed on your system.
 2.  Navigate to the directory where the file is saved.
 3.  Run the script:
     ```bash
-    python "Human Guesses.py"
+    python "Human Guess.py"
     ```
 4.  Follow the on-screen prompts to set the bounds (default is $1$ to $100$) and start guessing\!
 
@@ -47,7 +47,7 @@ You need to have **Python 3** installed on your system.
 
 ## Game Details and Logic
 
-### 1\. Computer Guesses (`Computer Guesses.py`)
+### 1\. Computer Guesses (`Computer Guess.py`)
 
 This game showcases the **Binary Search** technique.
 
@@ -56,7 +56,7 @@ This game showcases the **Binary Search** technique.
       * If the user says the guess is **Too High (H)**, the computer eliminates the upper half by setting `high = guess - 1`.
   * **Efficiency:** Because the search space is cut in half with every guess, the computer is guaranteed to find any number in the default range ($1$ to $100$) in at most **7 attempts** ($\lceil\log_2(100)\rceil = 7$).
 
-### 2\. Human Guesses (`Human Guesses.py`)
+### 2\. Human Guesses (`Human Guess.py`)
 
 This is a classic "higher or lower" guessing game.
 
