@@ -34,6 +34,7 @@ Here are some beginner-friendly project ideas to get you started:
 Contributions are welcome! If you have a project idea or want to improve an existing one, feel free to fork the repository and submit a pull request. Please make sure to follow the contribution guidelines outlined in the `CONTRIBUTING.md` file.
 
 ### How to Contribute
+0. *(Optional, but highly recommended: create a new issue and get assigned by a maintainer)* - this prevents duplicate work
 1. Fork the repository.
 2. Create a new branch for your feature or bug fix.
 3. Make your changes and commit them with a descriptive message.
